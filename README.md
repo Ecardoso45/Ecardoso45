@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ecardoso45&show_icons=true" />
 </picture>
 
-<a href="https://github.com/Ecardoso45/convoychat">
+<a href="https://github.com/Ecardoso45">
   <img height=205  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ecardoso45&layout=compact&langs_count=8&card_width=320" />
 </a>
   
