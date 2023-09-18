@@ -25,13 +25,13 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ecardoso&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ecardoso45&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ecardoso&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ecardoso45&show_icons=true" />
 </picture>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=205  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ecardoso&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Ecardoso45/convoychat">
+  <img height=205  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ecardoso45&layout=compact&langs_count=8&card_width=320" />
 </a>
   
